@@ -4,7 +4,7 @@ title: Donate
 
 Right now, Joe is not accepting financial donations to his campaign.
 
-Instead, you are highly encouraged to shop local or donate 
+Instead, you are highly encouraged to shop local or donate to your favorite charities.
 
 Some of Joe's favorite local restuarants include:
 
