@@ -1,0 +1,10 @@
+version: '2'
+services:
+  joe4huberheights:
+    build: .
+    ports:
+     - "4001:4000"
+    volumes:
+     - .:/srv/jekyll
+    #command: bundle exec jekyll new . --blank
+    command: tail -f /dev/null

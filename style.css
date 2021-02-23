@@ -1,0 +1,127 @@
+html {
+    height: 100%;
+}
+
+body {
+  padding: 0;
+  margin: 0;
+  width: 100%;
+  min-height: 100%;
+  display: flex;
+  flex-direction: column;
+  color: #444;
+  font: 18px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+
+header, nav, footer {
+  text-align: center;
+  flex: 0 1 auto;
+  background: yellow;
+  margin: 0;
+}
+
+header {
+  padding: 1rem 0;
+}
+
+header a {
+  text-transform: uppercase;
+  font-family: 'Montserrat';
+  font-weight: bold;
+  text-decoration: none;
+  color: black;
+  line-height: 1;
+  display: block;
+  margin: 0 auto;
+  width: fit-content;
+}
+
+header h1 {
+  margin-inline: 0;
+  padding: 0;
+}
+
+.name {
+  background: black;
+  color: yellow;
+  padding: 0.5rem 1rem;
+}
+
+nav {
+  line-height: 2rem;
+  padding: 0 0 1rem 0;
+}
+
+nav a {
+  margin: 0 2rem;
+}
+
+article {
+  flex: 1 0 auto;
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+footer {
+  margin: 0;
+  padding: 0.5rem 0;
+  width: 100%;
+}
+
+h1, h2 {
+  font-variant: small-caps;
+  padding: 0 1rem;
+}
+
+h1, h2, p {
+  margin: 0;
+}
+
+h1 {
+  font-size: 2rem;
+}
+
+p {
+  padding: 0.5rem 1rem;
+}
+
+img {
+  width: calc(100% + 2rem);
+  display: block;
+  position: relative;
+  left: -1rem;
+}
+
+@media all and (min-width: 1000px) {
+  img {
+    left: 0;
+    width: initial;
+    max-width: 100%;
+  }
+}
+
+div {
+  min-height: 1rem;
+}
+
+address {
+    margin: 1rem auto;
+    display: block;
+    width: fit-content;
+    font-style: normal;
+    font-family: monospace;
+}
+
+a[href^="mailto"]::before {
+    content: "📧 ";
+}
+
+a[href^="tel"]::before {
+    content: "📞 ";
+}
+
+iframe {
+  margin: 0 auto;
+  display: block;
+  max-width: 100%;
+}

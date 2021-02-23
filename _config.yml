@@ -1,0 +1,44 @@
+# Welcome to Jekyll!
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Joseph Hendrix, Candidate for Ward 3, Huber Heights
+description: Joseph Hendrix, Candidate for Ward 3, Huber Heights
+baseurl: "" # the subpath of your site, e.g. /blog
+url: https://www.joe4huberheights.com
+
+
+collections:
+  top-level:
+    output: true
+    permalink: /:name/
+    
+defaults:
+  - scope:
+      path: ""
+      type: "top-level"
+    values:
+      layout: "template"
+
+# Build settings
+markdown: kramdown
+# theme: minima
+permalink: /:title/
+
+plugins:
+  - jekyll-sitemap
+#  - jekyll-feed
+
+# Exclude from processing.
+exclude:
+  - docker-compose.yml
+  - Dockerfile
+  - Gemfile
+  - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
