@@ -125,3 +125,18 @@ iframe {
   display: block;
   max-width: 100%;
 }
+
+.facebook {
+  background-color: #3B5998;
+  color: #FFFFFF;
+  width: 200px;
+  margin: 0 auto;
+  text-decoration: none;
+  display: block;
+}
+
+.facebook img {
+  display: inline;
+  max-height: 1rem;
+  max-width: 1rem;
+}
