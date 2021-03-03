@@ -50,6 +50,12 @@ header h1 {
 nav {
   line-height: 2rem;
   padding: 0 0 1rem 0;
+  /*
+  padding: 0 2rem 1rem 2rem;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  */
 }
 
 nav a {
@@ -68,7 +74,7 @@ footer {
   width: 100%;
 }
 
-h1, h2 {
+h1, h2, h3 {
   font-variant: small-caps;
   padding: 0 1rem;
 }
