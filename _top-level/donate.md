@@ -6,7 +6,7 @@ Right now, Joe is not accepting financial donations to his campaign.
 
 Instead, you are highly encouraged to shop local or donate to your favorite charities.
 
-Some of Joe's favorite local restuarants include:
+Some of Joe's favorite local restaurants include:
 
 * [Classic Pizza](https://www.facebook.com/Classic-Pizza-321017136000/)
 * [The Heights Cafe](https://www.facebook.com/theHeightsCafe937/)
