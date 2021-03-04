@@ -1,5 +1,5 @@
 ---
-layout: template
+layout: post
 title: Joe's Huber Heights Ward 3 Council Member Interview
 ---
 
