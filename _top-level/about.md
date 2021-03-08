@@ -1,13 +1,12 @@
 ---
 title: About
-excerpt: About Me and JoeHx Blog
 ---
 
 ## Family
 
 Joe Hendrix lives with his wife of over three years, their rambunctious almost-three-year-old son, their just-starting-walking one-year-old daughter, and their two dogs Princess & Niko.
 
-![](/family.jpg)
+![Joe and his family.](/family.jpg)
 
 ## Faith
 
