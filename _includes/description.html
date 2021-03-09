@@ -1,1 +1,1 @@
-{% if page.layout == "post" %}{{ page.excerpt | strip_html }}{% else %}{{ site.description }}{% endif %}
+{% if page.layout == "post" %}{{ page.excerpt | strip_html | strip }}{% else %}{{ site.description }}{% endif %}
