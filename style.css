@@ -132,6 +132,10 @@ iframe {
   max-width: 100%;
 }
 
+blockquote {
+  background-color: #00000010;
+}
+
 .facebook {
   background-color: #3B5998;
   color: #FFFFFF;
