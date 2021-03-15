@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Three Primary Docuements for the Huber Heights City Manager's Resignation
+title: Three Primary Documents for the Huber Heights City Manager's Resignation
 ---
 
 If anyone wants to check out some primary documents about the former City Manager's resignation, here's his resignation letter, most recent employment contract, and consultation agreement:
