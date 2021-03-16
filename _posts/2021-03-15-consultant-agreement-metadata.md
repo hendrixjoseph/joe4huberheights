@@ -42,6 +42,23 @@ If that's the correct create and revision time, then that suggests I did not rec
 
 I've also put the documents here on this site:
 
+* [/pdf/public-docs/Untitled attachment 00020.pdf](/pdf/public-docs/Untitled attachment 00020.pdf)
 * [/pdf/public-docs/Untitled attachment 00042.pdf](/pdf/public-docs/Untitled attachment 00042.pdf)
 * [/pdf/public-docs/Untitled attachment 00045.pdf](/pdf/public-docs/Untitled attachment 00045.pdf)
 * [/pdf/public-docs/corrupted/Untitled attachment 00045.pdf](/pdf/public-docs/corrupted/Untitled attachment 00045.pdf)
+
+---
+
+Interestingly, my request isn't showing up in the city [Public Records Request portal](https://destinyhosted.com/pubrec_charts.cfm?id=48237). My first thought was that they hadn't got around to it. However, I was able to look up the request using the Tracking Number and my email.
+
+The docs are available on the portal if you know the URL. The URLs are:
+
+* Initial Response: <https://destinyhosted.com/hubershareddocs/PUBRECS/439_Initial%20Response_03-15-21_847.pdf>
+* Response With Documents: <https://destinyhosted.com/hubershareddocs/PUBRECS/439_Response%20With%20Documents_03-15-21_1057.pdf>
+* Public Records: <https://destinyhosted.com/hubershareddocs/PUBRECS/439_2412_Public Records - Hendrix - 031421.rtf>
+
+Oddly, the original document I was emailed had a PDF extension, where the document above has an RTF extension. (Also the filenames are very different.)
+
+I'm curious as to why they would change the filename extension when it was emailed to me.
+
+Also, the RTF file when opened in Word shows a timestamp of 3/15/2021 11:53 AM, which again suggests it's not the original document.
