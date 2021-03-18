@@ -50,16 +50,23 @@ header h1 {
 nav {
   line-height: 2rem;
   padding: 0 0 1rem 0;
-  /*
-  padding: 0 2rem 1rem 2rem;
   display: flex;
   flex-wrap: wrap;
-  justify-content: space-between;
-  */
+  justify-content: center;
 }
 
 nav a {
-  margin: 0 2rem;
+  margin: 0 1rem;
+}
+
+@media all and (max-width: 1000px) {
+  nav {
+
+  }
+  
+  nav a {
+      
+  }
 }
 
 article {
@@ -140,6 +147,7 @@ blockquote {
   background-color: #3B5998;
   color: #FFFFFF;
   width: 200px;
+  max-width: 100%;
   margin: 0 auto;
   text-decoration: none;
   display: block;
