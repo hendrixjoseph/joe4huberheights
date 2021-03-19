@@ -7,7 +7,7 @@ As part of my campaign for Ward 3 in Huber Heights, I have a goal of running/wal
 
 So far, I've walked/run on the following streets:
 
-* Harshmanville Rd between Taylorsville Rd & Longford Road
+* Harshmanville Rd between Taylorsville Rd & Longford Rd
 * Larcomb Dr betwen Harshmanville Rd & Montague Rd
 * Leawood Dr between Harshmanville Rd & Montague Rd
 * Longford Rd between Harshmanville Rd & Montague Rd
@@ -19,11 +19,11 @@ So far, I've walked/run on the following streets:
 * Mt Hood between Taylorsville Rd & Pomeranian Dr
 * All of Mt Whitney
 * All of Calmcrest Ct
-* All of Charmwood Dr
+* All of Charnwood Dr
 * All of Corlett Ct
 * All of Camrose Ct
 * All of Craigmont Ct
-* Troy Manor between Charmwood Dr & Taylorsville Rd
+* Troy Manor between Charnwood Dr & Taylorsville Rd
 
 I've also run at Gary Sherman Park behind the police station (and Shullgate Park but that's in Ward 2).
 
