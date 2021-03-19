@@ -15,7 +15,7 @@ So far, I've walked/run on the following streets:
 * All of Kingsbury Dr
 * Kylemore Dr between Kingsbury Dr & Montague Rd
 * Taylorsville Rd between Harshmanville Rd & Old Troy Pike
-* All of Mt Rainier
+* All of Mt Ranier
 * Mt Hood between Taylorsville Rd & Pomeranian Dr
 * All of Mt Whitney
 * All of Calmcrest Ct
