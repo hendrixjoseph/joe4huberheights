@@ -143,6 +143,27 @@ blockquote {
   background-color: #00000010;
 }
 
+table {
+  margin: 0.5rem 1rem;
+}
+
+table, table td, table th {
+  border: 1px solid black;
+}
+
+table td, table th {
+  padding: 0 0.5rem;
+}
+
+table thead {
+  background-color: yellow;
+}
+
+pre {
+  padding: 0rem 2rem;
+  background-color: yellow;
+}
+
 .facebook {
   background-color: #3B5998;
   color: #FFFFFF;
