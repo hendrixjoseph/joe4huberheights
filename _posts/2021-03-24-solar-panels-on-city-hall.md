@@ -154,3 +154,41 @@ In my research for this, I found that the  City Of Huber Heights does (did?) hav
 The [Request For Qualifications](https://www.hhoh.org/DocumentCenter/View/2328/EPP-Vendor-RFQ) (RFQ) is dated May 1, 2020, and I found a [City Council Meeting Agenda from October 12, 2020](https://destinyhosted.com/agenda_publish.cfm?id=48237&mt=ALL&get_month=10&get_year=2020&dsp=agm&seq=7205&rev=0&ag=3811&ln=46831&nseq=7224&nrev=0&pseq=7207&prev=0#ReturnTo46831) that mentions the project. Plus there's a [WYSO article about it](https://www.wyso.org/news/2020-08-16/huber-heights-making-energy-savings-upgrades-to-city-infrastructure).
 
 Other than that, I haven't heard anything about it. It could make (and hopefully will make) the energy usage go down from what I found from 2020.
+
+---
+
+## Update
+
+Over the weekend, I received the electric bills from my public records request. To my surprise, City Hall used much more than I had estimated based on the payments - much more:
+
+month | kWh
+--- | ---:
+January | 8,880
+February | 8,240
+March | 8,320
+April | 7,440
+May | 5,280
+June | 8,640
+July | 10,560
+August | 10,080
+September | 9,520
+October | 7,680
+November | 7,120
+December | 7,680
+**Total** | **99,440**
+
+99,440 kWh over 12 months is an average of almost 8,300 kWh a month. I had estimate they only used a little over 2,000 kWh a month.
+
+Which means they're getting a great rate. However, looking at the bill, it appears that the city isn't being charged delivery. It's a business bill, so it differs from my residential bill, so maybe that's why.
+
+Based on a 99,440 kWh usage and 1,486 hours of sunlight a year, that means city hall would need a 67 kW system:
+
+    99,440 kWh / 1,486 hours ≈ 67 kW.
+
+However, the [highest that Project Sunroof goes is a 41.3 kW system](https://www.google.com/get/sunroof/building/39.8630009/-84.130674/#?f=buy&b=500). That system is estimated to cost $113,782 before incentives.
+
+So, with those numbers, that makes the financial sense not make sense.
+
+The bills:
+
+{% include pdf.html src="/pdf/2020-city-hall-electric-bills.pdf" %}
