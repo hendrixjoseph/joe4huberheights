@@ -62,7 +62,7 @@ At the average monthly bill, Google recommends an 18.50 kW installation (which w
 
 Would 18.5 kW be enough? Noting that there are 1,486 hours of usable sunlight per year, that means this unit would generate 27,491 kWh per year:
 
-    18.5 kW × 1,486 hour = 27,491 kWh
+    18.5kW × 1,486hours = 27,491kWh
 
 Divide by twelve and we get an average of about 2,300 kWh generated per month.
 
@@ -183,7 +183,7 @@ Which means they're getting a great rate. However, looking at the bill, it appea
 
 Based on a 99,440 kWh usage and 1,486 hours of sunlight a year, that means city hall would need a 67 kW system:
 
-    99,440 kWh / 1,486 hours ≈ 67 kW.
+    99,440kWh / 1,486hours ≈ 67kW
 
 However, the [highest that Project Sunroof goes is a 41.3 kW system](https://www.google.com/get/sunroof/building/39.8630009/-84.130674/#?f=buy&b=500). That system is estimated to cost $113,782 before incentives.
 

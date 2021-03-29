@@ -71,7 +71,7 @@ nav a {
 
 article {
   flex: 1 0 auto;
-  max-width: 1000px;
+  max-width: min(1000px, 100%);
   margin: 0 auto;
 }
 
@@ -162,6 +162,7 @@ table thead {
 pre {
   padding: 0rem 2rem;
   background-color: yellow;
+  white-space: pre-wrap;
 }
 
 .facebook {
