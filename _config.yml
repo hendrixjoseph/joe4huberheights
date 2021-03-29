@@ -14,11 +14,19 @@ collections:
   top-level:
     output: true
     permalink: /:name/
+  transparency:
+    output: true
+    permalink: /:name/
     
 defaults:
   - scope:
       path: ""
       type: "top-level"
+    values:
+      layout: "template"
+  - scope:
+      path: ""
+      type: "transparency"
     values:
       layout: "template"
 
