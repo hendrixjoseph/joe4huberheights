@@ -7,6 +7,6 @@ These "expenses" will be reported as "in-kind" contributions to my campaign (or,
 In addition to the details in the table below, the form requires me to list myself as a contributor, including my name (Joseph Hendrix), my address (6019 Taylorsville Rd), and my employer (Northrop Grumman).
 
 date | amount | where | what
---- | --- | --- | ---
-{% for expense in site.data.expenses %}{{ expense.date }} | {{ expense.amount }} | {{ expense.where }} | {{ expense.what }}
-{% endfor %}
+---: | ---: | --- | ---
+{% assign total = 0 %}{% for expense in site.data.expenses %}{{ expense.date }} | {{ expense.amount }} | {{ expense.where }} | {{ expense.what }}{% capture cost %}{{ expense.amount | remove: "$" }}{% endcapture %}{% assign total = total | plus: cost %}
+{% endfor %} | **${{ total }}** | | 
