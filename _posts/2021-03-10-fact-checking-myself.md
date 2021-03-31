@@ -3,7 +3,7 @@ layout: post
 title: Fact-Checking my Interview on Truman's Town Hall
 ---
 
-On my interview on [Truman’s Town Hall](https://joe4huberheights.com/trumans-town-hall/) last week I made a few claims. 
+On my interview on [Truman’s Town Hall](/trumans-town-hall/) last week I made a few claims. 
 
 Namely, I made the following three claims:
 
