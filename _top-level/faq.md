@@ -38,7 +38,7 @@ The top two candidates from the primary election will be on the ballot for the g
 
 ## Who is the incumbent? Who is currently the Ward 3 representative?
 
-[Kathleen-Baker](https://www.hhoh.org/354/Kathleen-Baker](https://www.hhoh.org/354/Kathleen-Baker). She was [appointed in March 2020](https://www.daytondailynews.com/news/local/woman-appointed-fill-vacant-huber-heights-council-seat/VudL4nHGyeNI5MxPB4ALBO/) after [Seth Morgan vacated his seat in February 2020](https://www.daytondailynews.com/news/local/huber-heights-councilman-resigns/rx399G9k0JWtI2THAH7RJP/).
+[Kathleen Baker](https://www.hhoh.org/354/Kathleen-Baker). She was [appointed in March 2020](https://www.daytondailynews.com/news/local/woman-appointed-fill-vacant-huber-heights-council-seat/VudL4nHGyeNI5MxPB4ALBO/) after [Seth Morgan vacated his seat in February 2020](https://www.daytondailynews.com/news/local/huber-heights-councilman-resigns/rx399G9k0JWtI2THAH7RJP/).
 
 ## Who else is running for Ward 3 representative?
 
