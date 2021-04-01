@@ -189,6 +189,15 @@ kbd {
 .facebook {
   background-color: #3B5998;
   color: #FFFFFF;
+
+}
+
+.rss {
+  color: white;
+  background: transparent linear-gradient(135deg, #d95928 0%, #fa9c38 47%, #d95928 100%) repeat scroll 0% 0%;
+}
+
+.facebook, .rss {
   width: 200px;
   max-width: 100%;
   margin: 0 auto;
@@ -196,7 +205,7 @@ kbd {
   display: block;
 }
 
-.facebook img {
+.facebook img, .rss img {
   display: inline;
   max-height: 1rem;
   max-width: 1rem;
