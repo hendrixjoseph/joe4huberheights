@@ -46,3 +46,11 @@ I also am bringing a plastic grocery bag with me to pick up litter towards the e
 ### Map of my March 16, 2021 walk/run
 
 ![Map of my March 2021 walk/run.](/images/ward-walks/2021-03-16.png)
+
+---
+
+## Update:
+
+I've created a Google Map to show where I've walked/ran so far:
+
+{% include ward-walks-map.html %}
