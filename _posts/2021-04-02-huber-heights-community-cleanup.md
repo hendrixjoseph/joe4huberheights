@@ -3,7 +3,7 @@ layout: post
 title: Huber Heights Community Cleanup
 ---
 
-My campaign has two goals: Improve Myself, and Improve Huber Heights. Win or lose, if my campaign does not meet those two goals, than my campaign has failed.
+My campaign has two goals: Improve Myself, and Improve Huber Heights. Win or lose, if my campaign does not meet those two goals, then my campaign has failed.
 
 That's why, as part of a campaign event, I'm hosting a Community Cleanup on Saturday, April 10th starting at 10 am.
 
