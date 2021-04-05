@@ -106,10 +106,17 @@ img {
 }
 
 figure, figure img {
-  margin: 0 auto;
   text-align: center;
   font-style: italic;
   font-size: 90%;
+}
+
+figure {
+  margin: 1rem auto;
+}
+
+figure img {
+  margin: 0 auto;
 }
 
 @media all and (min-width: 1000px) {
