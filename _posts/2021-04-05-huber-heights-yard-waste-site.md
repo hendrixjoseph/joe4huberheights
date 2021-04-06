@@ -24,7 +24,7 @@ From the [Huber Heights Yard Waste Site website](https://www.hhoh.org/334/Yard-W
 > 
 > ### Wood Chips & Compost
 > 
-> The City grinds the leaves and other collected debris to make quality leaf and wood mulch, which is free. During open hours, residents are encouraged to take the available wood chips and leaf compost material free of charge. The end loader operator will load pickup trucks with the wood chips or leaf compost. Only citizens with proof of residency are permitted to drop off acceptable yard waste material. Contractors are not allowed to drop off material at this site. For more information contact the Public Works Division at 937-233-1562.
+> The City grinds the leaves and other collected debris to make quality leaf and wood mulch, which is free. During open hours, residents are encouraged to take the available wood chips and leaf compost material free of charge. The end loader operator will load pickup trucks with the wood chips or leaf compost. Only citizens with proof of residency are permitted to drop off acceptable yard waste material. Contractors are not allowed to drop off material at this site. For more information contact the Public Works Division at [937-233-1562](tel:9372331562).
 > 
 > ### Acceptable Yard Waste Material
 > 
@@ -47,6 +47,6 @@ From the [Huber Heights Yard Waste Site website](https://www.hhoh.org/334/Yard-W
 > 
 > 202 N to Kellenburger Road. Left on Kellenburger Road to Wildcat Road. Left on Wildcat Road to Cul-de-sac. Follow signs and asphalt driveway to the site.
 
-Or you can use the following Google Map:
+Or you can use the following [Google Map](https://goo.gl/maps/ETowiD1fFh8gdUZWA):
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m21!1m12!1m3!1d7282.829507975018!2d-84.14498815996275!3d39.873059379611846!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m6!3e2!4m0!4m3!3m2!1d39.8748709!2d-84.146902!5e0!3m2!1sen!2sus!4v1617645569089!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
