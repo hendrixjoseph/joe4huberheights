@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Huber Heights Community Cleanup
-excerpt: My campaign has two goals: Improve Myself, and Improve Huber Heights. Win or lose, if my campaign does not meet those two goals, then my campaign has failed.
 ---
 
 ## Update
