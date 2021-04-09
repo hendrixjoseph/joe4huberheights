@@ -1,6 +1,19 @@
 ---
 layout: post
 title: Huber Heights Community Cleanup
+excerpt: My campaign has two goals: Improve Myself, and Improve Huber Heights. Win or lose, if my campaign does not meet those two goals, then my campaign has failed.
+---
+
+## Update
+
+It looks like it might rain Saturday (April 10th).
+
+{% include image.html src="/images/weather-saturday-april-10-2021.png" caption="All-day weather forecast for Saturday, April 10th, 2021." %}
+
+If so, and depending on how hard it rains, I'm going to reschedule this cleanup one week to next Saturday (April 17th).
+
+I do plan on being in the parking lot rain or shine, in the event people show, so I can let them know.
+
 ---
 
 My campaign has two goals: Improve Myself, and Improve Huber Heights. Win or lose, if my campaign does not meet those two goals, then my campaign has failed.
