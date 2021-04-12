@@ -3,15 +3,27 @@ layout: post
 title: Huber Heights Community Cleanup
 ---
 
+## Thank you!
+
+Thank you to everyone who showed up for the Huber Heights Community Cleanup!
+
+We were able to collect 13 bags worth of trash in two hours!
+
+![Joe Hendrix standing beside the collected trash and his van.](/images/april-community-clean-results.jpg)
+
 ## Update
 
-It looks like it might rain Saturday (April 10th).
+It's on!
+
+It looks like it won't start raining until noon, so the 10am Community Cleanup is happening! I'll be at the Rural King end of Waynetowne Plaza in a yellow shirt with my burgundy Honda Odyssey van.
+
+~~It looks like it might rain Saturday (April 10th).~~
 
 {% include image.html src="/images/weather-saturday-april-10-2021.png" caption="All-day weather forecast for Saturday, April 10th, 2021." %}
 
-If so, and depending on how hard it rains, I'm going to reschedule this cleanup one week to next Saturday (April 17th).
+~~If so, and depending on how hard it rains, I'm going to reschedule this cleanup one week to next Saturday (April 17th).~~
 
-I do plan on being in the parking lot rain or shine, in the event people show, so I can let them know.
+~~I do plan on being in the parking lot rain or shine, in the event people show, so I can let them know.~~
 
 ---
 
