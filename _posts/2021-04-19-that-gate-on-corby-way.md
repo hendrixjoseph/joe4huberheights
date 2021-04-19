@@ -1,6 +1,7 @@
 ---
 layout: post
 title: That Gate on Corby Way, Huber Heights
+image: /images/gates/corby-way-gate.jpg
 ---
 
 If you live or have ever been in the Mt. Hood area, or along Blackshear Drive, you've probably seen this gate on Corby Way:
