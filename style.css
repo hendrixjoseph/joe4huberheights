@@ -195,8 +195,22 @@ kbd {
 
 .facebook {
   background-color: #3B5998;
-  color: #FFFFFF;
+  color: white;
+}
 
+.linkedin {
+  color: white;
+  background-color: #1F88BD;
+}
+
+.mix {
+  color: white;
+  background-color: #FD8235;
+}
+
+.reddit {
+  color: white;
+  background-color: #FF4500
 }
 
 .rss {
@@ -204,7 +218,26 @@ kbd {
   background: transparent linear-gradient(135deg, #d95928 0%, #fa9c38 47%, #d95928 100%) repeat scroll 0% 0%;
 }
 
-.facebook, .rss {
+.twitter {
+  color: white;
+  background-color: #1DA1F2;
+}
+
+.share {
+  display: flex;
+  justify-content: flex-start;
+}
+
+.share a {
+  text-decoration: none;
+  margin: 0 1rem;
+  width: 2rem;
+  height: 2rem;
+  display: inline-block;
+  text-align: center;
+}
+
+.social a {
   width: 200px;
   max-width: 100%;
   margin: 0 auto;
@@ -212,7 +245,12 @@ kbd {
   display: block;
 }
 
-.facebook img, .rss img {
+.share img {
+  vertical-align: middle;
+  left: 0;
+}
+
+.share img, .social img {
   display: inline;
   max-height: 1rem;
   max-width: 1rem;
