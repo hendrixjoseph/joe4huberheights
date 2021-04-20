@@ -3,10 +3,10 @@
 {% capture text %}{% if include.text %}{{ include.text }}{% elsif page.title %}{{ page.title }}{% endif %}{% endcapture %}
 
 <div class="share">
-<a title="Share to Facebook" class="facebook" href="https://www.facebook.com/dialog/share?app_id={{ site.fb-app-id }}&display=page&href={{ url }}" target="_blank">
+<a title="Share to Facebook" class="facebook" href="https://www.facebook.com/dialog/share?app_id=197946313591875&display=page&href={{ url }}" target="_blank">
  <img src="/images/social-icons/facebook-f.svg" alt="The Facebook F">
 </a>
-<a title="Tweet on Twitter" class="twitter" href="https://twitter.com/intent/tweet?url={{ url }}&via=JoeHxBlog&text={{ page.title | url_encode }} target="_blank">
+<a title="Tweet on Twitter" class="twitter" href="https://twitter.com/intent/tweet?url={{ url }}&via=JoeHxBlog&text={{ page.title | url_encode }}" target="_blank">
  <img src="/images/social-icons/twitter.svg" alt="The Twitter bird logo">
 </a>
 <a title="Share to LinkedIn" class="linkedin" href="https://www.linkedin.com/shareArticle?url={{ url }}&source={{ site.title | uri_escape }}" target="_blank">
