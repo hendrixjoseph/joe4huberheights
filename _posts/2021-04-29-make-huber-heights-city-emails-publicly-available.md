@@ -19,6 +19,8 @@ Systems already exist that archive email for display in a web-based environment,
 
 A popular such system is [GNU Mailman](https://www.list.org/) (read its [article on Wikipedia](https://en.wikipedia.org/wiki/GNU_Mailman) for a less-technical overview).
 
+{% include image.html src="/images/gnu-mailman-logo.jpg" caption="Logo for GNU Mailman." %}
+
 To see it in action, check out this [March 2021 archive of the *English Wikipedia Article of the Day* mailing list](https://lists.wikimedia.org/pipermail/daily-article-l/2021-March/date.html). If you want to see something where people interact, check out this [March 2021 Wikimedia archive by thread](https://lists.wikimedia.org/pipermail/wikimedia-l/2021-March/thread.html). Other options include [archived by subject](https://lists.wikimedia.org/pipermail/wikimedia-l/2021-March/subject.html) and [archived by author](https://lists.wikimedia.org/pipermail/wikimedia-l/2021-March/author.html).
 
 Also - if these lists are publicly available, they can be searched with search engines such as Google. Try searching [ohio site:https://lists.wikimedia.org](https://www.google.com/search?q=ohio+site%3Ahttps%3A%2F%2Flists.wikimedia.org)!
