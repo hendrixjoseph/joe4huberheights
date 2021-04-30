@@ -3,7 +3,7 @@ layout: post
 title: Make Huber Heights City Emails Publicly Available
 ---
 
-One of the two issues I decided to focus on for this campaign (and my time on council when elected) is [transparency](https://www.joe4huberheights.com/issues/#transparency). To see exactly how the Huber Heights City government could improve transparency, I've been taking a peek at its [Public Records Request portal](https://destinyhosted.com/pubrec_charts.cfm?id=48237)
+One of the two issues I decided to focus on for this campaign (and my time on council when elected) is [transparency](https://www.joe4huberheights.com/issues/#transparency). To see exactly how the Huber Heights City government could improve transparency, I've been taking a peek at its [Public Records Request portal](https://destinyhosted.com/pubrec_charts.cfm?id=48237).
 
 Since the public records portal's inception, there have been at least 470 public records requests. The first available ticket (ticket #1) was June 28, 2018:
 
