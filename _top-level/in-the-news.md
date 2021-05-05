@@ -12,4 +12,6 @@ title: In the News
 
 ## WDTN
 
+* [2020-05-04 Gore, Otto to face off in Huber Heights mayor election](https://www.daytondailynews.com/local/huber-heights-incumbents-lead-in-initial-results/2TFNVMJEENB55OK66DK76OFPDE/)
+* [2020-05-04 Montgomery County Primary Results](https://www.wdtn.com/montgomery-county/)
 * [2020-04-12: Huber Heights City Council Ward 3: Joseph Hendrix](https://www.wdtn.com/news/yleh-candidate-profiles/huber-heights-city-council-ward-3-joseph-hendrix/)
