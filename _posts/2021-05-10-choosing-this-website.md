@@ -21,7 +21,7 @@ And there's the nickname I use across the Internet - JoeHx. A [Google search for
 
 But I was running not as my Internet persona, but as a citizen of Huber Heights. Besides, *joe4huberheights* is easier to remember than *joehx4huberheights*.
 
-So [joe4huberheights.com](https://www.joe4huberheights.com/)
+So [joe4huberheights.com](https://www.joe4huberheights.com/) it is.
 
 ## Completely On My Own
 
@@ -39,7 +39,7 @@ If you want the technical details, GitHub Pages uses a static blog generator kno
 
 I use very little JavaScript on this site. The only bit I do use is for Google Analytics, so I know how much traffic this site gets.
 
-If you want to view the "backend" of this site, it's [publically available on GitHub](https://github.com/hendrixjoseph/joe4huberheights).
+If you want to view the "backend" of this site, it's [publicly available on GitHub](https://github.com/hendrixjoseph/joe4huberheights).
 
 ## The Styling
 
@@ -53,7 +53,7 @@ I could have used purple instead of the black, but I felt that black contrasted 
 
 The design - my name in yellow text surrounded by a black box with the remaining text in black with the yellow background - is mostly based on a political yard sign I saw online. I just liked how it looked.
 
-![The old header stating to vote for me.](/images/old-header.png)
+{% include image.html src="/images/old-header.png" caption="The old header stating to vote for me." %}
 
 ## Submitting to Indexes
 
