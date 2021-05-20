@@ -96,4 +96,4 @@ Finally, I submit these various blog posts to [reddit](https://www.reddit.com/do
 
 I make sure the entire site is archived on the [Wayback Machine](https://archive.org/web/), as well as process each blog post through [Facebook's Sharing Debugger](https://developers.facebook.com/tools/debug/) and [Twitter's Card Validator](https://cards-dev.twitter.com/validator).
 
-That's it for today. Next time, I'll think I'll talk about my Facebook strategy, and why I didn't set up a Twitter campaign account.
+That's it for today. Next time, I'll think I'll talk about [my Facebook strategy](https://www.joe4huberheights.com/my-facebook-strategy/), and why I didn't set up a Twitter campaign account.
