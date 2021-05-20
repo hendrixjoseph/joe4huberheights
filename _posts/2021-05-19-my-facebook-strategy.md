@@ -14,8 +14,6 @@ The URL is important, too. The Facebook URL is <https://www.facebook.com/Joe4Hub
 
 ## Events
 
-https://www.facebook.com/Joe4HuberHeights/events/
-
 Part of my Facebook strategy was to have two events - namely, the [Deadline for Voter Registration for the May 4 Primary Election](https://www.facebook.com/events/756389345017676/) on April 5, 2021, and [Primary Election Day](https://www.facebook.com/events/554406715939214/) on May 4, 2021. This allowed me to share these two very important happenings, and have my page attached to them.
 
 I also made sure to put my [Huber Heights Community Cleanup](https://www.facebook.com/events/2752105881771805/) as a Facebook event. This event was also [posted on this website](https://www.joe4huberheights.com/huber-heights-community-cleanup/) as well as plenty of other places.
