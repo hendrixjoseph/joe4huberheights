@@ -27,3 +27,11 @@ The pre-primary campaign report contains all contributions and expenses up to Ap
 The report was due April 22nd, 2021 by 4pm, but I submitted it a couple of days early on April 19th. There is a post-primary campaign finance report that is due June 11th at 4pm.
 
 {% include pdf.html src="/pdf/pre-primary-campaign-finance-report.pdf" %}
+
+## Post-Primary Campaign Finance Report
+
+The post-primary campaign report contains all contributions and expenses, including those that were reported on the pre-primary campaign report.
+
+The report was due June 11th, 2021 by 4pm, but I submitted it a couple of weeks early on May 25th. I would have submitted it earlier, but I was waiting for a Facebook Ad bill to be paid (it was paid on May 23rd).
+
+{% include pdf.html src="/pdf/post-primary-campaign-finance-report.pdf" %}
